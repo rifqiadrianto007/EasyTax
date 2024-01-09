@@ -1,0 +1,9 @@
+First semester students with five members in the Algorithms and Programming 1 course, Informatics study program have an interesting project that focuses on developing a simple program based on the Python language. 
+Python language. This program aims to assist in the processing of vehicle data and payment of related tax fees. The program is designed to make it easier for users to process vehicle information as well as to 
+ensure their tax obligations are met. 
+This program has several useful features, such as a login feature for the admin, who will be able to display, add, update, and even delete data in the form of csv files. This program, as its 
+This program, as its main purpose, provides a vehicle license plate number check feature that will display data from the vehicle owner. The payment process, which also displays a list of samsat addresses in the East Java region. 
+provides its own value to this program. The program tries to provide a fine fee feature as appropriate as the existing regulations. Although the data used in this program is only mock data taken from Informatics student data. 
+Informatics student data.
+This project is an interesting first step for new students in utilizing the Python programming language with csv files. By creating a simple program, it is hoped that it can be developed so that it can be directly useful for others. 
+directly useful for others.
